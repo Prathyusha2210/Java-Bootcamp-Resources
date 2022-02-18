@@ -1,5 +1,6 @@
 // TASK 1: Make a class.
 public class FirstProgram {
+    //ClassName should always be in CamelCase
     public static void main(String[] args) {
         System.out.println("Printing is fun!");
         System.out.println("Java > Python");
